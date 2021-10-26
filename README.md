@@ -1,3 +1,3 @@
 # ExpenseTracker
 
-An Expense Tracker using React
+An Expense Tracker built using React
